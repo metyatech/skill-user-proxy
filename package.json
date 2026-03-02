@@ -1,0 +1,20 @@
+{
+  "name": "@metyatech/skill-user-proxy",
+  "version": "1.0.0",
+  "description": "Agent skill for user proxy review",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "verify": "npm run format:check",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": [
+    "agent-skill"
+  ],
+  "author": "metyatech",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
