@@ -24,6 +24,31 @@ Returns APPROVE or FLAG with specific concerns.
 npx skills add metyatech/skill-user-proxy --yes --global
 ```
 
+## Development
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (LTS recommended)
+- [npm](https://www.npmjs.com/)
+
+### Setup
+
+```bash
+npm install
+```
+
+### Verification
+
+```bash
+npm run verify
+```
+
+### Formatting
+
+```bash
+npm run format
+```
+
 ## License
 
 MIT
