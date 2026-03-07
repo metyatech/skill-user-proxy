@@ -24,6 +24,15 @@ Returns APPROVE or FLAG with specific concerns.
 npx skills add metyatech/skill-user-proxy --yes --global
 ```
 
+## Testing and Examples
+
+See the [tests/](tests/) directory for examples of:
+
+- **Good plans**: That meet all criteria and are APPROVED.
+- **Bad plans**: That fail criteria (missing verification, known error patterns) and are FLAGed.
+
+Use these examples to verify your reviews and maintain high standards.
+
 ## License
 
 MIT
